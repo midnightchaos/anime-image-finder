@@ -1,0 +1,23 @@
+Anime Image Finder - A local application that helps find similar anime images on Pinterest.
+
+Features:
+- Processes local anime images using advanced computer vision
+- Finds visually similar images on Pinterest using AI algorithms
+- Pins similar images to your Pinterest boards automatically
+- All processing done locally on your computer for privacy
+- Supports popular anime series like Berserk, Dragon Ball, One Piece, etc.
+
+Technical Details:
+- Uses OpenCV for image processing and feature extraction
+- Implements color histogram analysis, edge detection, and perceptual hashing
+- Compares images using multiple similarity algorithms
+- Integrates with Pinterest API for seamless pinning
+
+Privacy & Security:
+- No personal data collection
+- Images processed locally only
+- No data transmitted to external servers
+- Only sends search queries to Pinterest API
+- Respects Pinterest's terms of service
+
+This app does not collect, store, or transmit any personal data beyond what's necessary for Pinterest API integration.
